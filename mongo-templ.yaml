@@ -6,7 +6,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: workout-db
+      app: workout-db2
   template:
     metadata:
       labels:
